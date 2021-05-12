@@ -9,7 +9,7 @@ It allows you to pour liquid into a glass, pour it out, pour it between glasses 
 
 # How to set up:
 
-0. Have your VRCSDK3-WORLD and UdonSharp already imported in your project. 
+0. Have your VRCSDK3-WORLD and [UdonSharp](https://github.com/MerlinVR/UdonSharp) already imported in your project. 
 
 1. Go to any GameObject and click the Layer drop-down in the top right of the Inspector. Then click on "Add Layer...".
 
