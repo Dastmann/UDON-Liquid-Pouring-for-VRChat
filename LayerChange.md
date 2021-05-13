@@ -19,4 +19,4 @@
 
 ![collisionLayerChange3](https://user-images.githubusercontent.com/81592952/118157553-fa837280-b41a-11eb-8497-4a17c60892ea.png)
 
-**Now you can proceed to the rest of the [guide](README.md)**
+**Now you can proceed to the rest of the guide**
