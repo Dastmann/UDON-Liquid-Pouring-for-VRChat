@@ -27,17 +27,24 @@ It allows you to pour liquid into a glass, pour it out, pour it between glasses 
 
 ![collisionSetup2](https://user-images.githubusercontent.com/81592952/118042124-f8b2a400-b373-11eb-86eb-13188a432461.png)
 
+### Other tweaks
 GameObjects (e.g. tables) you don't want the glass and players to collide with, but you want the particles to collide with, need to be set on the layer **"Walkthrough"**
 
+<br>
+
 To use the provided script (used on the levers, in the Tap prefab) for toggling the Liquid Spout on or off, you just have to:
-1. Put the "spoutSync.cs" script on the GameObject you want to be the trigger (It behaves like a normal Interact)
+1. Put the "spoutSync.cs" script on the GameObject you want to be the trigger (It'll behave like a normal Interact)
 2. In the inspector click "Convert to UdonBehaviour"
 3. And provide a reference to the Liquid_Spout GameObject in you scene
 
 Otherwise you can use any method of turning the Liquid_Spout GameObject on or off.
 Currently the toggle has to be global, othewise other players won't see the liquid level changing.
 
+<br>
+
 To change the color of the colored circles of the *Tap* prefab, you need to provide a 2x2 texture to the MAT_Papers material.
 You'll however still need to change the *Out Color* of the coresponding Liqid_Spout prefab manually to match the circle color.
+
+<br>
 
 ## **Have Fun!**
