@@ -15,7 +15,7 @@ It allows you to pour liquid into a glass, pour it out, pour it between glasses 
 
 ![layerSetup1](https://user-images.githubusercontent.com/81592952/118041402-09aee580-b373-11eb-886b-40dcb1cfc6a0.png)
 
-2. Create a new layer "liquidSystem" on the layer 23.
+2. Create a new layer "liquidSystem" on the layer 23. [How to change layer](LayerChange.md)
 
 ![layerSetup2](https://user-images.githubusercontent.com/81592952/118041703-66aa9b80-b373-11eb-90b5-39623f7ab5ec.png)
 
