@@ -1,6 +1,7 @@
 **You might need to change the layer number to not conflict with other system already in your world**
 
 ## **To change the layer number of liquidSystem, you'll need to:**
+0. Make sure you do this first before putting any prefabs into the world, or reimport them afterwards
 1. Create a new layer as described previously or choose a non-conflicting layer
 2. Open the Glass-REV2_VER2 prefab and edit these 4 GameObjects *(GlassParticleCollider, ParticleSystem_SizeVariable, ContainerCollider and ContainerColliderOnlyParticles_Glass)*
 
